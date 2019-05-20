@@ -1,0 +1,49 @@
+.titleInfo{
+    font-family:"黑体";
+    color:#1a72b8;
+    text-align:center;
+}
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+    text-align:center;
+}
+.part1{
+    margin:0 auto;
+}
+.part2{
+    margin:0 auto;
+}
+.part3{
+    margin:0 auto;
+}
+.button_first{
+    font-family:"黑体";
+    color:white;
+
+    background-color:#1a72b8;
+
+    font-size:15px;
+}
+.button_second{
+    font-family:"黑体";
+    color:white;
+
+    background-color:#1a72b8;
+
+    font-size:15px;
+}
+.button_third{
+    font-family:"黑体";
+    color:white;
+
+    background-color:#FFD700;
+
+    font-size:20px;
+}
+.tableclass{
+    margin-left:60px;}
+.part{
+    font-family: "黑体";
+}
